@@ -1,1 +1,3 @@
 Este es el primer texto ingresado al archivo
+segunda linea agregada al fichero devnet.txt de CISCO
+segunda linea agregada al fichero devnet.txt de CISCO
